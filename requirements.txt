@@ -1,0 +1,7 @@
+unstructured-ingest[onedrive]
+python-dotenv
+unstructured-ingest
+unstructured-ingest[google-drive]
+unstructured-ingest[remote]
+unstructured
+unstructured-ingest[embed-huggingface]
